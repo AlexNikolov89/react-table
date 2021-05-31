@@ -1,3 +1,11 @@
+![table](https://user-images.githubusercontent.com/66255010/120242401-15504680-c265-11eb-957b-129db8b679e5.png)
+
+Data fetched from Open Brewery DB
+https://www.openbrewerydb.org/
+
+# Styles
+Bootstrap, React-Bootstrap
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
